@@ -3,6 +3,6 @@ Version: 3.0.0-1
 Section: base
 Priority: optional
 Architecture: amd64
-Depends: libssl1.0.0, libboost-all-dev, libevent-2.1-6 | libevent-2.0-5, libqrencode-dev, libqt5gui5, libqt5core5a, libqt5dbus5, qttools5-dev, qttools5-dev-tools, libprotobuf-dev, protobuf-compiler, libminiupnpc-dev
+Depends: libssl1.0.0, libboost-all-dev, libevent-2.1-6 | libevent-2.0-5, libqrencode-dev, libqt5gui5, libqt5core5a, libqt5dbus5, libprotobuf-dev, protobuf-compiler, libminiupnpc-dev
 Maintainer: Vladislav Marchenko <marlock@bt.freeland>
 Description: MFCoin is a digital currency and blockchain service platform
