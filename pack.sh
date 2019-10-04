@@ -29,3 +29,5 @@ mv aur/mfcoin.svg pack/usr/share/icons
 rm -rf aur
 
 cp -r addons/* pack
+
+dpkg-deb --build pack
